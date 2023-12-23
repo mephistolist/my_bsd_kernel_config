@@ -113,7 +113,7 @@ options 	NETGDB			# netgdb(4) client support
 options 	SMP			# Symmetric MultiProcessor Kernel
 
 # CPU frequency control
-device		cpufreq
+#device		cpufreq
 
 # Bus support.
 device		acpi
